@@ -1,0 +1,59 @@
+{
+	"storyName": "NGS",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "ngs",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"glacier",
+			"ngs",
+			[
+				46,
+				133,
+				255
+			]
+		],
+		[
+			"Antarctica",
+			"ngs",
+			[
+				46,
+				133,
+				255
+			]
+		],
+		[
+			"ngs",
+			"ngs",
+			[
+				46,
+				133,
+				255
+			]
+		],
+		[
+			"antarc",
+			"ngs",
+			[
+				46,
+				133,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "5TH NGS Week"
+}

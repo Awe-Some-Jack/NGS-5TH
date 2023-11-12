@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "gabe idle"
+		},
+		{
+			"offsets": [
+				60,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "gabe up"
+		},
+		{
+			"offsets": [
+				60,
+				-220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "gabe right"
+		},
+		{
+			"offsets": [
+				118,
+				-179
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "gabe left"
+		},
+		{
+			"offsets": [
+				70,
+				-350
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "gabe down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/south",
+	"position": [
+		160,
+		30
+	],
+	"healthicon": "icon-no",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-90,
+		200
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

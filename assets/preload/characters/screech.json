@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				655,
+				842
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "screech idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				615,
+				784
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "screech left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				662,
+				1090
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "screech down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				635,
+				630
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "screech up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				742,
+				783
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "screech right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/screech",
+	"position": [
+		190,
+		610
+	],
+	"healthicon": "icon-no",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-730,
+		-690
+	],
+	"sing_duration": 4.99999999999999,
+	"scale": 0.8
+}

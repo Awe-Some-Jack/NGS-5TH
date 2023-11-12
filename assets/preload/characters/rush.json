@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				165,
+				692
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "RUSH idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				95,
+				674
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "RUSH left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				884
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "RUSH down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				500
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "RUSH up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				242,
+				703
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RUSH right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/RUSH",
+	"position": [
+		-1020,
+		510
+	],
+	"healthicon": "icon-no",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-210,
+		-490
+	],
+	"sing_duration": 4.89999999999999,
+	"scale": 0.699999999999998
+}

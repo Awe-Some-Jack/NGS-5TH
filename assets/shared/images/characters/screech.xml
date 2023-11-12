@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="screech.png">
+<SubTexture name="screech down0000" x="0" y="0" width="534" height="309" frameX="-226" frameY="-697" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech down0001" x="534" y="0" width="502" height="343" frameX="-242" frameY="-619" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech down0002" x="1036" y="0" width="465" height="362" frameX="-261" frameY="-568" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech idle0000" x="0" y="362" width="520" height="530" frameX="-213" frameY="-236" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech idle0001" x="0" y="362" width="520" height="530" frameX="-243" frameY="-216" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech idle0002" x="0" y="362" width="520" height="530" frameX="-229" frameY="-241" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech idle0003" x="0" y="362" width="520" height="530" frameX="-232" frameY="-235" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech idle0004" x="0" y="362" width="520" height="530" frameX="-219" frameY="-229" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech idle0005" x="0" y="362" width="520" height="530" frameX="-232" frameY="-234" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech left0000" x="520" y="362" width="592" height="592" frameX="-6" frameY="-165" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech left0001" x="1112" y="362" width="580" height="580" frameX="-43" frameY="-159" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech left0002" x="0" y="954" width="572" height="572" frameX="-62" frameY="-156" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech right0000" x="572" y="954" width="559" height="565" frameX="-446" frameY="-171" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech right0001" x="1131" y="954" width="543" height="547" frameX="-423" frameY="-159" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech right0002" x="0" y="1526" width="529" height="535" frameX="-414" frameY="-155" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech up0000" x="529" y="1526" width="265" height="419" frameX="-356" frameY="-10" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech up0001" x="529" y="1526" width="265" height="419" frameX="-356" frameY="-15" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech up0002" x="529" y="1526" width="265" height="419" frameX="-340" frameY="-2" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech up0003" x="529" y="1526" width="265" height="419" frameX="-344" frameY="-14" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="screech up0004" x="529" y="1526" width="265" height="419" frameX="-349" frameY="-7" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

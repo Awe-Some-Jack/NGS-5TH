@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="RUSH.png">
+<SubTexture name="RUSH down0000" x="438" y="1767" width="628" height="215" frameX="-187" frameY="-774" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="RUSH down0001" x="0" y="1767" width="438" height="278" frameX="-278" frameY="-631" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="RUSH down0002" x="1808" y="0" width="365" height="365" frameX="-313" frameY="-474" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="RUSH idle0000" x="0" y="0" width="636" height="669" frameX="-170" frameY="-146" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="RUSH left0000" x="0" y="669" width="525" height="566" frameX="-3" frameY="-213" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="RUSH left0001" x="1062" y="669" width="503" height="546" frameX="-75" frameY="-191" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="RUSH left0002" x="0" y="1235" width="485" height="532" frameX="-120" frameY="-180" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="RUSH right0000" x="636" y="0" width="605" height="611" frameX="-394" frameY="-198" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="RUSH right0001" x="1241" y="0" width="567" height="575" frameX="-364" frameY="-186" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="RUSH right0002" x="525" y="669" width="537" height="547" frameX="-355" frameY="-184" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="RUSH up0000" x="485" y="1235" width="396" height="524" frameX="-287" frameY="-5" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="RUSH up0001" x="881" y="1235" width="427" height="506" frameX="-269" frameY="-53" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="RUSH up0002" x="1308" y="1235" width="458" height="470" frameX="-251" frameY="-101" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>
