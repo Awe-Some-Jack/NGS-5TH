@@ -4,4 +4,4 @@
 
 ## Credits
 ![spacepuppy](https://github.com/user-attachments/assets/a1d6489d-2722-4740-ab5f-c6206467bcbd)
-* Space Puppy: Mod Leader
+* Space Puppy - Mod Leader
